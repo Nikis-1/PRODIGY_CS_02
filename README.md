@@ -1,2 +1,2 @@
 # PRODIGY_CS_02
-A simple image encryption and decryption program using pixel manipulation.
+A simple java program for image encryption and decryption using pixel manipulation.
